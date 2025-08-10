@@ -85,5 +85,3 @@ This task focuses on loading, cleaning, and understanding the financial data to 
     You can then execute the cells in the notebook to reproduce the data fetching, preprocessing, and analysis steps.
 
 ---
-
-**Next Steps:** The insights from this EDA will inform the selection
